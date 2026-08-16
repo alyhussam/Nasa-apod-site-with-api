@@ -48,3 +48,10 @@ body {
   line-height: 1.6;
   font-size: 1.1em;
 }
+
+image, video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
